@@ -19,7 +19,7 @@
 
 Software Engineer with **2 years of experience at TIAA**, a US-based Fortune 500 company, where I built scalable backend services and microservices handling **1M+ monthly transactions** using Java and Spring Boot.
 
-I'm currently pursuing my **MS in Computer Science at San Diego State University (GPA: 3.59)**, deepening my expertise in distributed systems, machine learning, and full stack development.
+I'm currently pursuing my **MS in Computer Science at San Diego State University**, deepening my expertise in distributed systems, machine learning, and full stack development.
 
 - 💼 Software Engineer @ TIAA Global Capabilities *(Jul 2022 – Jul 2024)*
 - 🎓 MS Computer Science @ SDSU *(Aug 2024 - May 2026)*
